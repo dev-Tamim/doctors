@@ -1,0 +1,508 @@
+@media (max-width: 575.98px) { 
+    
+
+header h2 {
+    font-size: 14px !important;
+  }
+  
+  header a {
+    font-size: 18px !important;
+  }
+  .banner_main{
+    justify-content: end;
+  }
+
+
+#banner h2 {
+    font-size: 20px !important;
+  }
+  
+  #banner h1 {
+    font-size: 24px !important;
+  }
+  
+  #banner p {
+    padding: 3px 0 !important;
+    font-size: 14px !important;
+    line-height: 21px !important;
+  }
+  
+  .banner_button a {
+    padding: 5px 14px !important;
+    font-size: 14px !important;
+  }
+  
+  #banner {
+    padding: 10px !important;
+  }
+  #about {
+    padding: 20px 0 30px 0 !important;
+} 
+
+#about h3 {
+    font-size: 18px !important;
+    padding-bottom: 7px !important;
+  }
+  
+  #about p {
+    font-size: 14px !important;
+    line-height: 17px !important;
+    padding: 10px 0 0px 0 !important;
+  }
+  
+  #about a {
+    font-size: 14px !important;
+  }
+  
+  .about_item {
+    padding-bottom: 20px !important;
+  }
+  
+#about h3 {
+    font-size: 18px !important;
+  }
+  #about {
+    padding: 20px 0 30px 0 !important;
+  }
+  #notice h3 {
+    font-size: 20px !important;
+    margin-bottom: 20px !important;
+  }
+  
+  .accordion-item button {
+    font-size: 14px !important;
+  }
+  
+  #notice a {
+    font-size: 14px !important;
+  }
+  
+  
+  .notice{
+    padding-bottom: 20px !important;
+  }
+  
+
+#news {
+    padding: 30px 0 30px 0 !important;
+  }
+  
+  #news h2 {
+    font-size: 20px !important;
+    padding-bottom: 10px !important;
+    margin-bottom: 15px !important;
+  }
+  
+  #news h3 {
+    font-size: 16px !important;
+    padding-bottom: 4px !important;
+  }
+  
+  #news p {
+    padding-bottom: 15px !important;
+  }
+  
+  .events_bottom {
+    padding-top: 15px !important;
+  }
+  
+  .events a {
+    font-size: 14px !important;
+  }
+  .events {
+    padding-bottom: 20px !important;
+  }
+  
+
+.service ul li a {
+    font-size: 14px !important;
+  }
+  
+  .service ul li {
+    line-height: 24px !important;
+  }
+  
+  .service .veaw {
+    padding-top: 3px !important;
+    font-size: 14px !important;
+  }
+  
+  #doctor h2 {
+    font-size: 22px !important;
+    padding-bottom: 10px !important;
+    margin-bottom: 20px !important;
+  }
+  
+  .doctor_item h3 {
+    font-size: 15px !important;
+    padding: 8px 0 5px 0 !important;
+  }
+  
+
+footer h3 {
+    font-size: 16px;
+    padding: 30px 0 8px 0;
+  }
+  
+  .footer_logo h2 {
+    font-size: 18px;
+  }
+  
+  .footer_bottom {
+    font-size: 14px;
+  }
+  
+  header {
+    padding: 5px 0 5px 0;
+    background-color: #dfece6;
+  }
+  header img{
+    width: 12% !important;
+  }
+ }
+ @media (min-width: 576px) and (max-width: 767.98px) {
+
+
+header h2 {
+    font-size: 18px !important;
+  }
+  
+  header a {
+    font-size: 25px !important;
+  }
+  
+  #banner h2 {
+    font-size: 28px !important;
+  }
+  
+  #banner h1 {
+    font-size: 27px !important;
+  }
+  
+  #banner p {
+    padding: 0px 0 !important;
+    font-size: 16px !important;
+    line-height: 22px !important;
+  }
+  
+  .banner_button a {
+    padding: 10px 20px !important; 
+    font-size: 16px !important;
+  }
+  
+  #banner {
+    padding: 15px !important;
+  }
+  
+  .service ul li {
+    line-height: 21px !important;
+  }
+  
+  .service .veaw {
+    padding-top: 27px !important;
+  }
+  
+  .footer_logo h2 {
+    font-size: 16px !important;
+  }
+  
+  .notice {
+    padding-bottom: 20px !important;
+  }
+  
+  .events {
+    padding-bottom: 20px !important;
+  }
+  
+  #about h3 {
+    font-size: 13px !important;
+    
+    }
+
+ }
+ @media (min-width: 768px) and (max-width: 991.98px){
+
+
+
+#about h3 {
+    font-size: 18px !important;
+    padding-bottom: 15px !important;
+  }
+  
+  #about p {
+    font-size: 14px!important;
+    padding: 10px 0 11px 0!important;
+  }
+  
+  #about a {
+    font-size: 14px!important;
+  }
+  
+  #about {
+    padding: 40px 0 30px 0!important;
+  }
+  
+  #notice h3 {
+    font-size: 22px!important;
+    padding-bottom: 10px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  .accordion-item button {
+    font-size: 14px!important;
+  }
+  
+  #notice a {
+    padding-top: 13px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  #news h2 {
+    font-size: 22px!important;
+    padding-bottom: 10px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  #news h3 {
+    font-size: 16px!important;
+    padding-bottom: 5px!important;
+  }
+  
+  #news p {
+    padding-bottom: 15px!important;
+  }
+  
+  .events_bottom {
+    padding-top: 15px!important;
+  }
+  
+  .events a {
+    font-size: 14px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  .service ul li a {
+    font-size: 14px!important;
+  }
+  
+  .service ul li {
+    line-height: 28px!important;
+  }
+  
+  .service .veaw {
+    padding-top: 22px!important;
+  }
+  
+  #news {
+    padding: 30px 0 30px 0!important;
+  }
+  
+  #doctor h2 {
+    font-size: 22px!important;
+  }
+  
+  .doctor_item h3 {
+    font-size: 16px!important;
+  }
+  
+  .doctor_item span {
+    padding-top: 0px!important;
+  }
+  
+  #doctor {
+    padding-bottom: 40px!important;
+  }
+  
+  .footer_logo h2 {
+    font-size: 14px!important;
+  }
+  
+  footer h3 {
+    font-size: 16px!important;
+    padding: 30px 0 10px 0!important;
+  }
+  
+  .footer_bottom {
+    padding: 15px!important;
+    font-size: 14px!important;
+  }
+  
+  #banner h2 {
+    font-size: 28px !important;
+  }
+  
+  #banner h1 {
+    font-size: 37px !important;
+  }
+  
+  #banner p {
+    padding: 5px 0 !important;
+    font-size: 18px !important;
+    line-height: 22px !important;
+  }
+  
+  .banner_button a {
+    padding: 6px 14px !important;
+    font-size: 15px !important;
+  }
+  
+  header h2 {
+    font-size: 22px !important;
+  }
+  
+  header a {
+    font-size: 26px !important;
+  }
+  
+  .my-2 {
+    margin-top: 0rem !important;
+    margin-bottom: 0rem !important;
+  }
+  
+
+ }
+ @media (min-width: 992px) and (max-width:1199.98px) {
+#about h3 {
+    font-size: 18px !important;
+    padding-bottom: 15px!important;
+  }
+  
+  #about p {
+    font-size: 14px!important;
+    padding: 10px 0 11px 0!important;
+  }
+  
+  #about a {
+    font-size: 14px!important;
+  }
+  
+  #about {
+    padding: 40px 0 30px 0!important;
+  }
+  
+  #notice h3 {
+    font-size: 22px!important;
+    padding-bottom: 10px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  .accordion-item button {
+    font-size: 14px!important;
+  }
+  
+  #notice a {
+    padding-top: 13px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  #news h2 {
+    font-size: 22px!important;
+    padding-bottom: 10px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  #news h3 {
+    font-size: 16px!important;
+    padding-bottom: 5px!important;
+  }
+  
+  #news p {
+    padding-bottom: 15px!important;
+  }
+  
+  .events_bottom {
+    padding-top: 15px!important;
+  }
+  
+  .events a {
+    font-size: 14px!important;
+    margin-bottom: 20px!important;
+  }
+  
+  .service ul li a {
+    font-size: 14px!important;
+  }
+  
+  .service ul li {
+    line-height: 28px!important;
+  }
+  
+  .service .veaw {
+    padding-top: 22px!important;
+  }
+  
+  #news {
+    padding: 30px 0 30px 0!important;
+  }
+  
+  #doctor h2 {
+    font-size: 22px!important;
+  }
+  
+  .doctor_item h3 {
+    font-size: 16px!important;
+  }
+  
+  .doctor_item span {
+    padding-top: 0px!important;
+  }
+  
+  #doctor {
+    padding-bottom: 40px!important;
+  }
+  
+  .footer_logo h2 {
+    font-size: 14px!important;
+  }
+  
+  footer h3 {
+    font-size: 16px!important;
+    padding: 30px 0 10px 0!important;
+  }
+  
+  .footer_bottom {
+    padding: 15px!important;
+    font-size: 14px!important;
+  }
+  
+  
+  header h2 {
+    font-size: 24px!important;
+  }
+  
+  #banner h1 {
+    font-size: 42px!important;
+  }
+  
+  #banner h2 {
+    font-size: 30px!important;
+  }
+  
+  #banner p {
+    padding: 19px 0!important;
+    font-size: 25px!important;
+    line-height: 29px!important;
+  }
+  
+  .nav_menu ul li a {
+    padding: 18px 15px !important;
+    font-size: 14px !important;
+    color: #ffffff  !important;
+}
+
+  }
+
+
+
+
+
+  @media (min-width: 1400px) { 
+    .nav_menu ul li a{
+        padding: 18px 20px !important;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 16px !important;
+        color: #ffffff !important;
+        font-weight:600;
+    }
+
+   }
